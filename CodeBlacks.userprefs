@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{3C7180D4-B02A-422A-9467-D6953ACFB6B3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CodeBlacks.Console/App.config">
+    <Files>
+      <File FileName="CodeBlacks.Console/App.config" Line="30" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CodeBlacks.Harness PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
